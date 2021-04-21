@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Settings>
+  <NumberOfParameters Quantity="32" />
+<PointerToParameters VarNameInKUKA="iQ_ParPointer" />
+<TransferReqFlag VarNameInKUKA="Q_Req_Parameter" />
+<ParameterValid_Flag VarNameInKUKA="I_ParValid" />
+<ParameterToSend VarNameInKUKA="iI_ParValue" />
+<FormatParameters><Parameter ParameterName="ParameterName0" Value="0" />
+<Parameter ParameterName="ParameterName1" Value="0" />
+<Parameter ParameterName="ParameterName2" Value="0" />
+<Parameter ParameterName="ParameterName3" Value="0" />
+<Parameter ParameterName="ParameterName4" Value="0" />
+<Parameter ParameterName="ParameterName5" Value="0" />
+<Parameter ParameterName="ParameterName6" Value="0" />
+<Parameter ParameterName="ParameterName7" Value="0" />
+<Parameter ParameterName="ParameterName8" Value="0" />
+<Parameter ParameterName="ParameterName9" Value="0" />
+<Parameter ParameterName="ParameterName10" Value="0" />
+<Parameter ParameterName="ParameterName11" Value="0" />
+<Parameter ParameterName="ParameterName12" Value="0" />
+<Parameter ParameterName="ParameterName13" Value="0" />
+<Parameter ParameterName="ParameterName14" Value="0" />
+<Parameter ParameterName="ParameterName15" Value="0" />
+<Parameter ParameterName="ParameterName16" Value="0" />
+<Parameter ParameterName="ParameterName17" Value="0" />
+<Parameter ParameterName="ParameterName18" Value="0" />
+<Parameter ParameterName="ParameterName19" Value="0" />
+<Parameter ParameterName="ParameterName20" Value="0" />
+<Parameter ParameterName="ParameterName21" Value="0" />
+<Parameter ParameterName="ParameterName22" Value="0" />
+<Parameter ParameterName="ParameterName23" Value="0" />
+<Parameter ParameterName="ParameterName24" Value="0" />
+<Parameter ParameterName="ParameterName25" Value="0" />
+<Parameter ParameterName="ParameterName26" Value="0" />
+<Parameter ParameterName="ParameterName27" Value="0" />
+<Parameter ParameterName="ParameterName28" Value="0" />
+<Parameter ParameterName="ParameterName29" Value="0" />
+<Parameter ParameterName="ParameterName30" Value="0" />
+<Parameter ParameterName="ParameterName31" Value="0" />
+</FormatParameters>
+</Settings>

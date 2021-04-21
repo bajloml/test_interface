@@ -1,0 +1,7 @@
+﻿<Window x:Class="WPF_CrossComm_Client.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local="clr-namespace:WPF_CrossComm_Client"
+        Title="WPF_CrossComm_Client" Height="900" Width="930">
+</Window>
+    
