@@ -290,3 +290,9 @@ C:\Users\mbajlo\Desktop\KUKA Programming\KUKA Proxy\0Marko\C#_CrossComm\CrossCom
 C:\Users\mbajlo\Desktop\KUKA Programming\KUKA Proxy\0Marko\C#_CrossComm\CrossComm_V0014_Caliburn.Micro\WPF_CrossComm_Client_V0002\obj\Debug\WPF_CrossComm_Client.pdb
 C:\Users\mbajlo.PESTER\Desktop\KUKA_Interface\CrossComm_V0014_Caliburn.Micro\WPF_CrossComm_Client_V0002\obj\Debug\WPF_CrossComm_Client.exe
 C:\Users\mbajlo.PESTER\Desktop\KUKA_Interface\CrossComm_V0014_Caliburn.Micro\WPF_CrossComm_Client_V0002\obj\Debug\WPF_CrossComm_Client.pdb
+C:\Users\mbajlo.PESTER\Desktop\KUKA_Interface\CrossComm_V0014_Caliburn.Micro\WPF_CrossComm_Client_V0002\obj\Debug\WPF_CrossComm_Client.csprojAssemblyReference.cache
+C:\Users\mbajlo.PESTER\Desktop\KUKA_Interface\CrossComm_V0014_Caliburn.Micro\WPF_CrossComm_Client_V0002\obj\Debug\MVVM_pattern\Views\FormatParameterTransfer_View.g.cs
+C:\Users\mbajlo.PESTER\Desktop\KUKA_Interface\CrossComm_V0014_Caliburn.Micro\WPF_CrossComm_Client_V0002\obj\Debug\App.g.cs
+C:\Users\mbajlo.PESTER\Desktop\KUKA_Interface\CrossComm_V0014_Caliburn.Micro\WPF_CrossComm_Client_V0002\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\mbajlo.PESTER\Desktop\KUKA_Interface\CrossComm_V0014_Caliburn.Micro\WPF_CrossComm_Client_V0002\obj\Debug\WPF_CrossComm_Client_MarkupCompile.cache
+C:\Users\mbajlo.PESTER\Desktop\KUKA_Interface\CrossComm_V0014_Caliburn.Micro\WPF_CrossComm_Client_V0002\obj\Debug\WPF_CrossComm_Client_MarkupCompile.lref

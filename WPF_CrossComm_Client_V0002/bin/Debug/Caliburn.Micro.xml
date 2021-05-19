@@ -1379,6 +1379,11 @@
             Creates an <see cref="T:Caliburn.Micro.ILog"/> for the provided type.
             </summary>
         </member>
+        <member name="T:Caliburn.Micro.NonPortableReflectionExtensions">
+            <summary>
+            A collection of extension methods to help with differing reflection between the portable library and SL5
+            </summary>
+        </member>
         <member name="T:Caliburn.Micro.OverrideCancelResultDecorator">
             <summary>
             A result decorator that overrides <see cref="F:Caliburn.Micro.ResultCompletionEventArgs.WasCancelled"/> of the decorated <see cref="T:Caliburn.Micro.IResult"/> instance.
@@ -1470,11 +1475,6 @@
             <param name="propertyName"></param>
             <returns></returns>
         </member>
-        <member name="T:Caliburn.Micro.PortableReflectionExtensions">
-            <summary>
-            A collection of extension methods to help with differing reflection between the portable library and SL5
-            </summary>
-        </member>
         <member name="T:Caliburn.Micro.RescueResultDecorator`1">
             <summary>
             A result decorator which rescues errors from the decorated result by executing a rescue coroutine.
@@ -1496,38 +1496,6 @@
             <param name="context">The context.</param>
             <param name="innerResult">The decorated result.</param>
             <param name="args">The <see cref="T:Caliburn.Micro.ResultCompletionEventArgs" /> instance containing the event data.</param>
-        </member>
-        <member name="T:Caliburn.Micro.SimpleResult">
-            <summary>
-            A simple result.
-            </summary>
-        </member>
-        <member name="M:Caliburn.Micro.SimpleResult.Succeeded">
-            <summary>
-            A result that is always succeeded.
-            </summary>
-        </member>
-        <member name="M:Caliburn.Micro.SimpleResult.Cancelled">
-            <summary>
-            A result that is always canceled.
-            </summary>
-            <returns>The result.</returns>
-        </member>
-        <member name="M:Caliburn.Micro.SimpleResult.Failed(System.Exception)">
-            <summary>
-            A result that is always failed.
-            </summary>
-        </member>
-        <member name="M:Caliburn.Micro.SimpleResult.Execute(Caliburn.Micro.CoroutineExecutionContext)">
-            <summary>
-            Executes the result using the specified context.
-            </summary>
-            <param name="context">The context.</param>
-        </member>
-        <member name="E:Caliburn.Micro.SimpleResult.Completed">
-            <summary>
-            Occurs when execution has completed.
-            </summary>
         </member>
         <member name="T:Caliburn.Micro.ResultCompletionEventArgs">
             <summary>
@@ -1876,6 +1844,38 @@
               Occurs when a new instance is created.
             </summary>
         </member>
+        <member name="T:Caliburn.Micro.SimpleResult">
+            <summary>
+            A simple result.
+            </summary>
+        </member>
+        <member name="M:Caliburn.Micro.SimpleResult.Succeeded">
+            <summary>
+            A result that is always succeeded.
+            </summary>
+        </member>
+        <member name="M:Caliburn.Micro.SimpleResult.Cancelled">
+            <summary>
+            A result that is always canceled.
+            </summary>
+            <returns>The result.</returns>
+        </member>
+        <member name="M:Caliburn.Micro.SimpleResult.Failed(System.Exception)">
+            <summary>
+            A result that is always failed.
+            </summary>
+        </member>
+        <member name="M:Caliburn.Micro.SimpleResult.Execute(Caliburn.Micro.CoroutineExecutionContext)">
+            <summary>
+            Executes the result using the specified context.
+            </summary>
+            <param name="context">The context.</param>
+        </member>
+        <member name="E:Caliburn.Micro.SimpleResult.Completed">
+            <summary>
+            Occurs when execution has completed.
+            </summary>
+        </member>
         <member name="T:Caliburn.Micro.TaskExtensions">
             <summary>
             Extension methods to bring <see cref="T:System.Threading.Tasks.Task"/> and <see cref="T:Caliburn.Micro.IResult"/> together.
@@ -2145,6 +2145,11 @@
         <member name="P:Caliburn.Micro.WeakValueDictionary`2.Values">
             <summary>
             Gets a collection containing the values in the <see cref="T:Caliburn.Micro.WeakValueDictionary`2"/>.
+            </summary>
+        </member>
+        <member name="T:System.Runtime.CompilerServices.CallerMemberNameAttribute">
+            <summary>
+            Allows you to obtain the method or property name of the caller.
             </summary>
         </member>
     </members>

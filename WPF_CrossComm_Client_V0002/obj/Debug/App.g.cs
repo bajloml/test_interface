@@ -52,7 +52,7 @@ namespace WPF_CrossComm_Client {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/WPF_CrossComm_Client;component/app.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/WPF_Client;component/app.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\App.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

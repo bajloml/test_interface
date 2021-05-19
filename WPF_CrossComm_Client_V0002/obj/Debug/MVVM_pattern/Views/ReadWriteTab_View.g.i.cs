@@ -102,7 +102,7 @@ namespace WPF_CrossComm_Client.MVVM_Pattern.Views {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/WPF_CrossComm_Client;component/mvvm_pattern/views/readwritetab_view.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/WPF_Client;component/mvvm_pattern/views/readwritetab_view.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\MVVM_pattern\Views\ReadWriteTab_View.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

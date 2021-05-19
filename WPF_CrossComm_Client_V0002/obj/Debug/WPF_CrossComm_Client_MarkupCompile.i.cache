@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\mbajlo\Desktop\KUKA Programming\KUKA Proxy\0Marko\C#_CrossComm\CrossComm_V0013_Caliburn.Micro\WPF_CrossComm_Client_V0002\obj\Debug\
-WPF_CrossComm_Client
+C:\Users\mbajlo.PESTER\Desktop\KUKA_Interface\CrossComm_V0014_Caliburn.Micro\WPF_CrossComm_Client_V0002\obj\Debug\
+WPF_Client
 none
 false
 DEBUG;TRACE
-C:\Users\mbajlo\Desktop\KUKA Programming\KUKA Proxy\0Marko\C#_CrossComm\CrossComm_V0013_Caliburn.Micro\WPF_CrossComm_Client_V0002\App.xaml
+C:\Users\mbajlo.PESTER\Desktop\KUKA_Interface\CrossComm_V0014_Caliburn.Micro\WPF_CrossComm_Client_V0002\App.xaml
 3181379028
 
-24-349069867
-71931385881
+21810447177
+18359994566
 MVVM_pattern\Views\FormatParameterTransfer_View.xaml;MVVM_pattern\Views\MainView.xaml;MVVM_pattern\Views\ReadWriteTab_View.xaml;
 
-True
+False
 

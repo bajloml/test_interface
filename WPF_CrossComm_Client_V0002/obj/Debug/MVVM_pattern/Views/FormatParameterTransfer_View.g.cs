@@ -100,8 +100,7 @@ namespace WPF_CrossComm_Client.MVVM_Pattern.Views {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/WPF_CrossComm_Client;component/mvvm_pattern/views/formatparametertransfer_view.x" +
-                    "aml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/WPF_Client;component/mvvm_pattern/views/formatparametertransfer_view.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\MVVM_pattern\Views\FormatParameterTransfer_View.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);
