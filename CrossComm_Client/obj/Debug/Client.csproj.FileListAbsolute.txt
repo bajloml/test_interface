@@ -1,6 +1,0 @@
-C:\Users\mbajlo.PESTER\Desktop\KUKA_Interface\CrossComm_V0014_Caliburn.Micro\CrossComm_Client\bin\Debug\Client.exe
-C:\Users\mbajlo.PESTER\Desktop\KUKA_Interface\CrossComm_V0014_Caliburn.Micro\CrossComm_Client\bin\Debug\Client.pdb
-C:\Users\mbajlo.PESTER\Desktop\KUKA_Interface\CrossComm_V0014_Caliburn.Micro\CrossComm_Client\obj\Debug\Client.csprojAssemblyReference.cache
-C:\Users\mbajlo.PESTER\Desktop\KUKA_Interface\CrossComm_V0014_Caliburn.Micro\CrossComm_Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
-C:\Users\mbajlo.PESTER\Desktop\KUKA_Interface\CrossComm_V0014_Caliburn.Micro\CrossComm_Client\obj\Debug\Client.exe
-C:\Users\mbajlo.PESTER\Desktop\KUKA_Interface\CrossComm_V0014_Caliburn.Micro\CrossComm_Client\obj\Debug\Client.pdb
